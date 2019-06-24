@@ -1,18 +1,1 @@
-/*
- * Generated using BlocklyDuino:
- *
- * https://github.com/MediaTek-Labs/BlocklyDuino-for-LinkIt
- *
- * Date: Sat, 22 Jun 2019 05:28:52 GMT
- */
-
-
-
-void setup()
-{
-
-}
-
-
-void loop()
-{
+ #花蓮智慧教育中心 智慧家電之手機遙控課程 Github練習
